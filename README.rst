@@ -1,4 +1,4 @@
-{{ cookiecutter.formal_name }}
-{{ "=" * cookiecutter.formal_name|length }}
+cookiecutter-website
+====================
 
-{{ cookiecutter.description }}
+A cookiecutter template for PyBee.org project websites.
