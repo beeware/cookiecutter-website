@@ -1,5 +1,6 @@
 {
     "repo_name": "projectname",
     "formal_name": "Project Name",
-    "description": "One line description."
+    "description": "One line description.",
+    "tracking_id": "UA-2943925-1"
 }
